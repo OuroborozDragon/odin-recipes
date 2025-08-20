@@ -3,3 +3,11 @@ img{
     max-width: 500px;
     max-height: 500px;
 }
+p{
+}
+body{
+    align-items: center;
+}
+h2,h3,p{
+    text-align: center;
+}
